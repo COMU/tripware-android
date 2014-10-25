@@ -1,4 +1,4 @@
-tripware-android
+tripwire-android-firefoxOS
 ================
 
-Tripware Android Uygulaması
+Tripwire Mobil Uygulama
