@@ -1,0 +1,44 @@
+
+#h3{
+  background: #ffff
+}
+#head{
+  background: #ffff
+}
+body {
+ 
+  background-color:#7F0E0E;
+}
+
+label {
+    display:block;
+  position:static;
+  padding:0 10px;
+  font-size:18px;
+  line-height:30px;
+  text-decoration:none;
+  background-color:#FB6423;
+  color:white;
+  border-radius:15px 50px 50px 15px;
+  -webkit-border-radius:0px 5px 5px 0px; 
+  -moz-border-radius:0px 5px 5px 0px; 
+
+}
+
+}
+label span {
+  
+  width: 10px;
+  height: 10px;
+  background: #ddd;
+  margin-right: 3px;
+}
+label.checked {
+  color: green;
+}
+label.checked span {
+  background: green;
+}
+div{
+  background-color:#ffff;
+}
