@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent" android:weightSum="1" >
+
+    <ListView xmlns:android="http://schemas.android.com/apk/res/android"
+              android:id="@+id/outputList"
+              android:layout_width="fill_parent"
+              android:layout_height="688dp" android:layout_weight="4.00"/>
+    <Button
+            android:layout_width="264dp"
+            android:layout_height="wrap_content"
+            android:text="Geri"
+            android:id="@+id/button_geri" android:layout_gravity="right" />
+    <Button
+            android:layout_width="264dp"
+            android:layout_height="wrap_content"
+            android:text="kaydet"
+            android:id="@+id/button_save" android:layout_gravity="right" />
+    <Button
+            android:layout_width="264dp"
+            android:layout_height="wrap_content"
+            android:text="yeniden başlat"
+            android:id="@+id/button_reboot" android:layout_gravity="right" />
+    <Button
+            android:layout_width="264dp"
+            android:layout_height="wrap_content"
+            android:text="master.txt"
+            android:id="@+id/button_master" android:layout_gravity="right" />
+    <Button
+            android:layout_width="264dp"
+            android:layout_height="wrap_content"
+            android:text="dosya farkı"
+            android:id="@+id/button_differnt" android:layout_gravity="right" />
+
+
+</LinearLayout>
