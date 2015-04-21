@@ -16,13 +16,19 @@
     <Button
             android:layout_width="264dp"
             android:layout_height="wrap_content"
-            android:text="kaydet"
+            android:text="Kontrol"
             android:id="@+id/button_save" android:layout_gravity="right" />
     <Button
             android:layout_width="264dp"
             android:layout_height="wrap_content"
-            android:text="yeniden başlat"
+            android:text="Yeniden başlat"
             android:id="@+id/button_reboot" android:layout_gravity="right" />
+    <Button
+            android:layout_width="264dp"
+            android:layout_height="wrap_content"
+            android:text="İlk kayıt"
+            android:id="@+id/button_master" android:layout_gravity="right" />
+
 
 
 </LinearLayout>
