@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/kritik"
+          android:src="@drawable/warning"
+          android:title="@string/menu_kritik" />
+
+    <item android:id="@+id/normal"
+
+          android:src="@drawable/dosya"
+          android:title="@string/menu_normal" />
+
+
+</menu>
